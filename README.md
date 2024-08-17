@@ -8,7 +8,7 @@
 
 - ⚡ Currently exploring **the endless possibilities of Machine Learning and unlocking the power of AI**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-flame-theta.vercel.app/](https://myportfolio-flame-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bhavanaportfolio.vercel.app/](https://bhavanaportfolio.vercel.app/)
 
 - 📫 Connect with me: **www.linkedin.com/in/engg-bhavana-sharma**
 
