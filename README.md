@@ -57,14 +57,14 @@
       </a>
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       </a>
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -95,21 +95,26 @@
       </a>
       <br>Figma
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
       <br>Git
     </td>
+    <td align="center" width="96"></td>
   </tr>
 </table>
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavanaatgit&show_icons=true&locale=en&layout=compact" alt="bhavanaatgit" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavanaatgit&show_icons=true&locale=en&layout=compact" alt="bhavanaatgit" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavanaatgit&show_icons=true&locale=en" alt="bhavanaatgit" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavanaatgit&show_icons=true&locale=en" alt="bhavanaatgit" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanaatgit&" alt="bhavanaatgit" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanaatgit&" alt="bhavanaatgit" />
+</div>
